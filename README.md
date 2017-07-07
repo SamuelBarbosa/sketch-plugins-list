@@ -11,4 +11,3 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 
 ## Optional
 - [Sketch Measure](http://utom.design/measure/): Create documentation.
-- 
