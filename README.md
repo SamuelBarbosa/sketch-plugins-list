@@ -18,6 +18,7 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 - [Font Finder](https://github.com/ukn530/FontFinder): find fonts item in current page by family.
 - [Fontily](https://github.com/partyka1/Fontily): finding & replacing fonts.
 - [Compo](https://github.com/romashamin/compo-sketch): buttons and label margins automation.
+- [Egmont](https://github.com/interfacemarket/Egmont-plugin): create squircle shapes.
 
 ## Other good quality plugins
 - [States](http://states.design/): create different states and switch between them easily. Just like layer comps for Sketch.
