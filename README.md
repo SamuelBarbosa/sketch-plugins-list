@@ -7,6 +7,7 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 - [Auto-Layout](https://animaapp.github.io/): Gives ability to do responsive design on your artboards.
 - [Comma](https://github.com/margusholland/Comma): Text functions missing from sketch.
 - [Stark](http://getstark.co/): color-blind simulator and contrast checker.
+- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes): A Sketch plugin for exporting and importing fill presets.
 
 
 ## Optional
