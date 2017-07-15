@@ -10,6 +10,7 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 - [Stark](http://getstark.co/): color-blind simulator and contrast checker.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes): a Sketch plugin for exporting and importing fill presets.
 - [Font Packer](https://github.com/bigxixi/Font-Packer): collect font files you used in your sketch file.
+- [Sketch Guides](https://github.com/luvmex/Sketch-Guides): add Guides to edges and midpoints at once.
 
 
 ## Optional
