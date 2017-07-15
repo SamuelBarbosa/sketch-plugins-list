@@ -12,8 +12,11 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 
 
 ## Optional
-- [Sketch Measure](http://utom.design/measure/): Create documentation.
-- [Chromatic](https://github.com/petterheterjag/chromatic-sketch):  Create good-looking and perceptually uniform gradients and color scales.
+- [Sketch Measure](http://utom.design/measure/): create documentation.
+- [Chromatic](https://github.com/petterheterjag/chromatic-sketch):  create good-looking and perceptually uniform gradients and color scales.
 - [Paster](https://github.com/Volorf/Paster): paste text data from clipboard directly to Sketch text layers.
 - [Font Finder](https://github.com/ukn530/FontFinder): find fonts item in current page by family.
 - [Compo](https://github.com/romashamin/compo-sketch): buttons and label margins automation.
+
+## Other good quality plugins
+- [States](http://states.design/): create different states and switch between them easily. Just like layer comps for Sketch.
