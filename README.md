@@ -3,6 +3,7 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 
 ## Must Have
 - [Sketch Runner](http://sketchrunner.com/): a command launcher for sketch. Useful for repetitive tasks and managing plugins easily.
+- [Monster](https://github.com/PeachScript/sketch-plugin-monster): manage plugins shortcuts.
 - [Craft](https://www.invisionapp.com/craft): could be a list by himself.
 - [Auto-Layout](https://animaapp.github.io/): gives ability to do responsive design on your artboards.
 - [Comma](https://github.com/margusholland/Comma): text functions missing from sketch.
