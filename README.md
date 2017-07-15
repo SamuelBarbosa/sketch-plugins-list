@@ -12,3 +12,4 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 
 ## Optional
 - [Sketch Measure](http://utom.design/measure/): Create documentation.
+- [Chromatic](https://github.com/petterheterjag/chromatic-sketch):  Create good-looking and perceptually uniform gradients and color scales.
