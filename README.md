@@ -23,6 +23,7 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 - [Egmont](https://github.com/interfacemarket/Egmont-plugin): create squircle shapes.
 - [Formr](https://github.com/lessthanzero/Formr): maintain proportions of layers and artboards.
 - [SketchDistributor](https://github.com/PEZ/SketchDistributor): distributes selected objects vertically or horizontally with a given spacing.
+- [PDF Export](https://github.com/DWilliames/PDF-export-sketch-plugin): PDF exporting.
 
 ## Other good quality plugins
 - [States](http://states.design/): create different states and switch between them easily. Just like layer comps for Sketch.
