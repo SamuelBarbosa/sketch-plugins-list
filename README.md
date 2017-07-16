@@ -25,6 +25,7 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 - [SketchDistributor](https://github.com/PEZ/SketchDistributor): distributes selected objects vertically or horizontally with a given spacing.
 - [PDF Export](https://github.com/DWilliames/PDF-export-sketch-plugin): PDF exporting.
 - [Nudged](https://kevinwoodhouse.github.io/sketch-nudged/): easily edit your nudge distance settings.
+- [Image Replaste](https://github.com/mheesakkers/sketch-image-replaste): replacing images with your copied image of your clipboard.
 
 ## Other good quality plugins
 - [States](http://states.design/): create different states and switch between them easily. Just like layer comps for Sketch.
