@@ -11,6 +11,7 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes): a Sketch plugin for exporting and importing fill presets.
 - [Font Packer](https://github.com/bigxixi/Font-Packer): collect font files you used in your sketch file.
 - [Sketch Guides](https://github.com/luvmex/Sketch-Guides): add Guides to edges and midpoints at once.
+- [Sketch Dynamic Symbol Button](https://github.com/herrkris/sketch-dynamic-symbol-button): create basic symbols that adjust to the dimensions of the text layer (something like Dynamic Button but with symbols).
 
 
 ## Optional
