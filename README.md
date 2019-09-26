@@ -1,6 +1,10 @@
 # Sketch plugins list
 This is a voluntary minimal list of sketch plugins. The idea behind it is not to address all issues possible but more a short list of day-to-day productivity boost plugins.
 
+
+---
+Old version
+---
 ## Must Have
 - [Sketch Runner](http://sketchrunner.com/): a command launcher for sketch. Useful for repetitive tasks and managing plugins easily.
 - [Monster](https://github.com/PeachScript/sketch-plugin-monster): manage plugins shortcuts.
