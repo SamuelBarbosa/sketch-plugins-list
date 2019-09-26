@@ -8,6 +8,11 @@ This is a voluntary minimal list of sketch plugins. The idea behind it is not to
 
 ## Specifics needs
 - [Looper](http://www.sureskumar.com/looper/): automate duplication of groups and layers.
+- [PDF Export](https://github.com/DWilliames/PDF-export-sketch-plugin): PDF exporting.
+
+
+
+
 
 ---
 Old version
