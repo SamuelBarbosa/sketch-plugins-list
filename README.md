@@ -1,6 +1,13 @@
 # Sketch plugins list
 This is a voluntary minimal list of sketch plugins. The idea behind it is not to address all issues possible but more a short list of day-to-day productivity boost plugins.
 
+## Must have
+- [Auto-Layout](https://animaapp.github.io/):
+- [Stark](http://getstark.co/): color-blind simulator and contrast checker.
+- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes): a Sketch plugin for exporting and importing fill presets.
+
+## Specifics needs
+- [Looper](http://www.sureskumar.com/looper/): automate duplication of groups and layers.
 
 ---
 Old version
