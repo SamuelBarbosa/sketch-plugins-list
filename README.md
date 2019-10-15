@@ -2,10 +2,10 @@
 This is a voluntary minimal list of sketch plugins. The idea behind it is not to address all issues possible but more a short list of day-to-day productivity boost plugins.
 
 ## Must have
-- [Anima](https://animaapp.github.io/):
+- [Anima](https://animaapp.github.io/): Still useful, despite latest features on sketch.
 - [Stark](http://getstark.co/): color-blind simulator and contrast checker.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes): a Sketch plugin for exporting and importing fill presets.
-- [Nudged](https://kevinwoodhouse.github.io/sketch-nudged/): easily edit your nudge distance settings.
+- [Nudged](https://kevinwoodhouse.github.io/sketch-nudged/): easily edit your nudge distance settings, real time saver for those who use 8px grid.
 
 ## Nice to have
 - [Automate Sketch](https://ashung.github.io/Automate-Sketch/): A lot of micro-features that can be useful.
